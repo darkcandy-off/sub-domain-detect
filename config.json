@@ -1,0 +1,6 @@
+{
+  "telegram_bot_token": "yourbotid",
+  "admin_user_id": "youruserid",
+  "password": "yourpassword",
+  "websites": []
+}
